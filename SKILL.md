@@ -1,4 +1,4 @@
----
+﻿---
 name: token-counter
 description: 自动统计对话或文本文件的 token 数量。当用户询问 token 消耗、对话长度、上下文窗口占用时使用。支持自动环境检查、依赖安装、多模型统计（GLM/Kimi/Qwen/DeepSeek/MiniMax/Doubao 等）。
 ---
